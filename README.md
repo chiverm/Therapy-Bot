@@ -51,5 +51,4 @@ Open your browser and navigate to `http://localhost:3000` to start interacting w
 ### Notes on API Integration
 
 - The project expects an API endpoint that receives user messages and returns AI-generated responses.
-- You can customize the API integration in the `/api/chat` route (or wherever your backend logic handles requests).
 - The environment variables allow you to easily switch between different LLM providers without changing the code.
